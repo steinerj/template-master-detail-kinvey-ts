@@ -48,6 +48,6 @@
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
 	<key>NSCalendarsUsageDescription</key>
-	<string>This application needs to acces your calendar events.</string>
+	<string>This application needs to access your calendar events.</string>
 </dict>
 </plist>
